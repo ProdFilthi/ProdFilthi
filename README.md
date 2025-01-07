@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Emmanuel Francis]
 
-<!--
-**ProdFilthi/ProdFilthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer | Web Developer**
 
-Here are some ideas to get you started:
+🚀 Skills: React.js | Next.js | Node.js | Python | Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 **GitHub Stats:**
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+🛠️ **Highlighted Projects**:
+- [Project 1: TodoApp]([https://github.com/your-repo](https://github.com/ProdFilthi/Todo-app.git)): This is a todo app where I implemented the standard CRUD functionality that is ; Create, Read, Update & Delete
+
+📫 **Let's Connect!**
+[LinkedIn](https://www.linkedin.com/in/emma-francis09) | [Portfolio](https://github.com/ProdFilthi/My-Portfolio.git)
