@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Emmanuel Francis]
+# Hi there! 👋 I'm Emmanuel Francis
 
 💻 **Software Developer | Web Developer**
 
