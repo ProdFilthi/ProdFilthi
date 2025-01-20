@@ -2,10 +2,11 @@
 
 💻 **Software Developer | Web Developer**
 
-🚀 Skills: React.js | Next.js | Node.js | Python | Tailwind CSS
+🚀 Skills: React.js | Next.js | Node.js | Tailwind CSS
 
 🛠️ **Highlighted Projects**:
-- [Project 1: TodoApp]([https://github.com/your-repo](https://github.com/ProdFilthi/Todo-app.git)): This is a todo app where I implemented the standard CRUD functionality that is ; Create, Read, Update & Delete
+Main Project: DirtyBucket: Its a market place for selling beats since I am a music producer myself so I will try to provide a place for their beats
+https://github.com/ProdFilthi/dirtybucket.git
 
 📫 **Let's Connect!**
 [LinkedIn](https://www.linkedin.com/in/emma-francis09) | [Portfolio](https://github.com/ProdFilthi/My-Portfolio.git)
