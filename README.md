@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Emmanuel Francis
 
-💻 **Software Developer | Web Developer**
+💻 **Software Developer | Fullstack Developer**
 
-🚀 Skills: React.js | Next.js | Node.js | Tailwind CSS
+🚀 Skills: | HTML5 | CSS3 | Javascript | Tailwind CSS | React.js  | Next.js | Node.js | Express.js | MongoDb
 
 🛠️ **Highlighted Projects**:
 Main Project: DirtyBucket: Its a market place for selling beats since I am a music producer myself so I will try to provide a place for their beats
